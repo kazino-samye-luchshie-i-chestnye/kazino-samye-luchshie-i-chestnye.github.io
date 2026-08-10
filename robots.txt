@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-samye-luchshie-i-chestnye.github.io
+Sitemap: https://kazino-samye-luchshie-i-chestnye.github.io/sitemap.xml
